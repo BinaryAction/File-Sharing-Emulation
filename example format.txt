@@ -1,0 +1,5 @@
+admin:123:1:self:unlocked
+dude:123:0:okay-someone-person:unlocked
+self:OWNER:2:self:unlocked
+user1:abc:0:bob:unlocked
+user2:1337:0:self:unlocked
